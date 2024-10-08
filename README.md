@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello There 👋
+- 📚 I’m currently learning web develompent technologies such as next.js react framework with tailwind css to make it look good 😎
+- Also I learn some basics of game dev langs as C#, nodes, python (this one also for algoritmic problem solving) 🎮🗒
+- At now I attend to ZSE nr 1 In Kraków getting my programmer technician title. 👨‍🎓
 <!--
 **OV3R9/OV3R9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
