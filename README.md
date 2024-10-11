@@ -3,5 +3,4 @@
 - Also I learn some basics of game dev langs as C#, nodes, python 🎮🗒
 - At now I attend to ZSE nr 1 In Kraków, getting my programmer technician title. 👨‍🎓
 
-https://img.shields.io/badge/react-blue?style=flat-square&logo=react&logoColor=white&labelColor=blue&color=blue
-
+<img src="https://img.shields.io/badge/react-blue?style=flat-square&logo=react&logoColor=white&labelColor=blue&color=blue" alt=""/>
