@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact" alt="" />
-<img  width="600" height="200"  style="margin-left: 30px" src="https://github-readme-stats.vercel.app/api?username=OV3R9" alt="" />
+<img width="550" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact" alt="" />
+<img  width="550" height="200"  style="margin-left: 30px" src="https://github-readme-stats.vercel.app/api?username=OV3R9&hide_rank" alt="" />
 </p>
