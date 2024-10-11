@@ -18,5 +18,5 @@
 
 <p align="center">
 <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact&bg_color=263a4d&title_color=ffffff&text_color=adb4ba&hide_border=true" alt="" />
-<img  width="500" height="200"  style="margin-left: 30px" src="https://streak-stats.demolab.com/?user=OV3R9&background=263a4d&hide_border=true&sideNums=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff alt="" />
+<img  width="500" height="200"  style="margin-left: 30px" src="https://streak-stats.demolab.com/?user=OV3R9&background=263a4d&hide_border=true&sideNums=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff" alt="" />
 </p>
