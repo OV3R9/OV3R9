@@ -16,4 +16,7 @@
 <img width="70" height="30" style="display: inline-block" src="https://img.shields.io/badge/SQL-white?style=flat-square&logo=sqlite&logoColor=white&color=blue" alt=""/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact)
+<p align="center">
+<img width="300" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact" alt="" />
+<img  width="300" height="100"  style="margin-left: 30px" src="https://github-readme-stats.vercel.app/api?username=OV3R9" alt="" />
+</p>
