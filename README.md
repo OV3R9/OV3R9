@@ -15,5 +15,6 @@
 <img width="70" height="30" style="display: inline-block" src="https://img.shields.io/badge/GIT-white?style=flat-square&logo=Git&logoColor=white&color=red" alt=""/>
 <img width="70" height="30" style="display: inline-block" src="https://img.shields.io/badge/SQL-white?style=flat-square&logo=sqlite&logoColor=white&color=blue" alt=""/>
 </p>
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact)
+</p>
