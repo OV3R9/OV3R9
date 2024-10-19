@@ -1,7 +1,7 @@
 ## Hello There 👋
 - 📚 I’m currently learning web develompent technologies such as next.js react framework with tailwind css to make it look good. 😎
-- Also I learn some basics of game dev langs like C#, python and also visual scripting. 🎮🗒
-- At now I attend to ZSE nr 1 In Kraków, getting my programmer technician title. 👨‍🎓
+- Also I learn some basics of game dev langs like C#, python. 🎮🗒
+- At now I attend to ZSE nr 1 In Kraków, getting my programmer technician degree. 👨‍🎓
 
 ## Technologies 🖥️
 <p align="center">
