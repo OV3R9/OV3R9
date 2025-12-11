@@ -22,16 +22,6 @@ At the moment, I attend **ZSE nr 1 in Kraków**, working toward my **Programmer 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OV3R9)](https://github.com/OV3R9/github-readme-stats)
-
-</div>
-
----
-
 ## 🌱 What I’m Working On
 - Building full-stack apps with **Next.js + Prisma + PostgreSQL**
 - Building AI solutions with **Python**
