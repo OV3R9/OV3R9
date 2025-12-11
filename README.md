@@ -1,22 +1,42 @@
-## Hello There 👋
-- 📚 I’m currently learning web develompent technologies such as next.js react framework with tailwind css to make it look good. 😎
-- Also I learn some basics of game dev langs like C#, python. 🎮🗒
-- At now I attend to ZSE nr 1 In Kraków, getting my programmer technician degree. 👨‍🎓
+# 👋 Hello There!
 
-## Technologies 🖥️
+I'm currently learning modern web technologies — mainly **Next.js**, **React**, and **Tailwind CSS** — to build clean, fast, and aesthetic web applications. 😎  
+I also explore game development basics using **C#** and **Python**. 🎮🐍  
+
+At the moment, I attend **ZSE nr 1 in Kraków**, working toward my **Programmer Technician** degree. 👨‍🎓  
+
+---
+
+## 🧰 Technologies & Tools
 <p align="center">
-<img width="90" height="30" style="display: inline-block" src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=white&color=orange" alt=""/>
-<img width="90" height="30" style="display: inline-block" src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=white&color=%23366aad" alt=""/>
-<img width="120" height="30" style="display: inline-block" src="https://img.shields.io/badge/JAVASCRIPT-white?style=flat-square&logo=JavaScript&logoColor=white&color=yellow" alt=""/>
-<img width="90" height="30" style="display: inline-block" src="https://img.shields.io/badge/REACT-white?style=flat-square&logo=react&logoColor=white&color=blue" alt=""/>
-<img width="120" height="30" style="display: inline-block" src="https://img.shields.io/badge/TAILWIND-white?style=flat-square&logo=TailwindCSS&logoColor=white&color=%2333b5b8" alt=""/>
-<img width="90" height="30" style="display: inline-block" src="https://img.shields.io/badge/NEXT.JS-white?style=flat-square&logo=Next.js&logoColor=white&color=black" alt=""/>
-<img width="110" height="30" style="display: inline-block" src="https://img.shields.io/badge/PYTHON-white?style=flat-square&logo=Python&logoColor=white&color=blue" alt=""/>
-<img width="70" height="30" style="display: inline-block" src="https://img.shields.io/badge/GIT-white?style=flat-square&logo=Git&logoColor=white&color=red" alt=""/>
-<img width="70" height="30" style="display: inline-block" src="https://img.shields.io/badge/SQL-white?style=flat-square&logo=sqlite&logoColor=white&color=blue" alt=""/>
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=white&color=orange" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=white&color=%23366aad" height="30"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=flat-square&logo=JavaScript&logoColor=white&color=yellow" height="30"/>
+  <img src="https://img.shields.io/badge/REACT-white?style=flat-square&logo=react&logoColor=white&color=blue" height="30"/>
+  <img src="https://img.shields.io/badge/TAILWIND-white?style=flat-square&logo=TailwindCSS&logoColor=white&color=%2333b5b8" height="30"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-white?style=flat-square&logo=Next.js&logoColor=white&color=black" height="30"/>
+  <img src="https://img.shields.io/badge/PYTHON-white?style=flat-square&logo=Python&logoColor=white&color=blue" height="30"/>
+  <img src="https://img.shields.io/badge/GIT-white?style=flat-square&logo=Git&logoColor=white&color=red" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-white?style=flat-square&logo=sqlite&logoColor=white&color=blue" height="30"/>
 </p>
 
-<p align="center">
-<img width="550" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact&bg_color=263a4d&title_color=ffffff&text_color=adb4ba&hide_border=true" alt="" />
-<img  width="500" height="200"  style="margin-left: 30px" src="https://streak-stats.demolab.com/?user=OV3R9&background=263a4d&hide_border=true&sideNums=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&dates=adb4ba&sideLabels=ffffff" alt="" />
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=OV3R9&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 What I’m Working On
+- Building full-stack apps with **Next.js + Prisma + PostgreSQL**
+- Building AI solutions with **Python**
+
+---
+
