@@ -26,9 +26,7 @@ At the moment, I attend **ZSE nr 1 in Kraków**, working toward my **Programmer 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OV3R9&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OV3R9&layout=compact&theme=radical)
 
 </div>
 
